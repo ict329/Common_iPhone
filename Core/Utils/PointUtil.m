@@ -2,7 +2,7 @@
 //  PointUtils.m
 //  Charity
 //
-//  Created by gamy on 13-3-19.
+//  Created by ict on 13-3-19.
 //  Copyright (c) 2013年 ict. All rights reserved.
 //
 
